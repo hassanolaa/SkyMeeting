@@ -24,13 +24,13 @@
 
 Here're some of the project's best features:
 
-* Offline Local Task App
-* Mobile Responsive And Animated App
-* Local Scheduled Notifications
-* Splash Screen
-* On Boarding Screens
+* Videocall
+* Voicecall
+* Shere Screen
+* Meeting Chat
+* White Board
 * Show Case
-* Smart Dialog
+* Splash Screen
 * Customized App Icon
 * Customized App Name
 
